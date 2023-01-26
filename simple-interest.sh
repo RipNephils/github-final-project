@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # Rip Nephils (for Coursera final proyect)
 
    # Input:
    # p, principal amount
